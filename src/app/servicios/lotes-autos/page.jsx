@@ -29,27 +29,27 @@ const secondaryTextOption2 = [
 
 const images = [
   {
-    src: "/assets/images/servicios/limpieza-lotes-autos/limpieza_lotes_autos1.png",
+    src: "/assets/images/servicios/limpieza-lotes-autos/limpieza_lotes_autos1.jpg",
     alt: "Limpieza Lotes de Autos",
     title: "Limpieza Lotes de Autos 1",
   },
   {
-    src: "/assets/images/servicios/limpieza-lotes-autos/limpieza_lotes_autos2.png",
+    src: "/assets/images/servicios/limpieza-lotes-autos/limpieza_lotes_autos2.jpg",
     alt: "Limpieza Lotes de Autos",
     title: "Limpieza Lotes de Autos 2",
   },
   {
-    src: "/assets/images/servicios/limpieza-lotes-autos/limpieza_lotes_autos3.png",
+    src: "/assets/images/servicios/limpieza-lotes-autos/limpieza_lotes_autos3.jpg",
     alt: "Limpieza Lotes de Autos",
     title: "Limpieza Lotes de Autos 3",
   },
   {
-    src: "/assets/images/servicios/limpieza-lotes-autos/limpieza_lotes_autos4.png",
+    src: "/assets/images/servicios/limpieza-lotes-autos/limpieza_lotes_autos4.jpg",
     alt: "Limpieza Lotes de Autos",
     title: "Limpieza Lotes de Autos 4",
   },
   {
-    src: "/assets/images/servicios/limpieza-lotes-autos/limpieza_lotes_autos5.png",
+    src: "/assets/images/servicios/limpieza-lotes-autos/limpieza_lotes_autos5.jpg",
     alt: "Limpieza Lotes de Autos",
     title: "Limpieza Lotes de Autos 5",
   },

@@ -87,12 +87,28 @@ export default function Home() {
 
   const videoUrl = "/assets/videos/main_video.mp4";
 
+  const videoUrlen = "/assets/videos/ecuacleaner_eng.mp4";
+  const videoUrles = "/assets/videos/ecuacleaner_esp.mp4";
+
   //----------------------------------------------
 
   return (
     <main className="">
       <Hero />
       <Introduction text={introductionText} />
+
+      <div className="pt-4 pb-4 sm:pt-6 sm:pb-6 bg-gradient-to-br from-[#000000] to-[#717175]">
+        <div className="flex flex-col sm:flex-row justify-center items-start">
+          <div className="w-full sm:w-1/2 p-2">
+            <h2 className="section-title text-primary mb-2 sm:mb-4">About Us</h2>
+            <VideoPlayer2 videoUrl={videoUrlen} />
+          </div>
+          <div className="w-full sm:w-1/2 p-2">
+            <h2 className="section-title text-primary mb-2 sm:mb-4">Acerca de nosotros</h2>
+            <VideoPlayer2 videoUrl={videoUrles} />
+          </div>
+        </div>
+      </div>
 
       <FeaturedServices services={services} />
       <Benefits benefits={benefits} imageSrc={imageSrc} />

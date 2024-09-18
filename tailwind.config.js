@@ -83,6 +83,7 @@ module.exports = {
         'spacing-28': '36rem',
         'spacing-29': '38rem',
         'spacing-30': '40rem',
+        '9/16': '56.25%',
       },
       borderRadius: {
         'custom-20': '20px',

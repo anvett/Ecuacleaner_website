@@ -87,7 +87,7 @@ export default function Footer() {
         <nav>
           <h6 className="footer-title text-size-3 text-primary font-primary">Social</h6>
           <div className="grid grid-flow-col gap-4">
-            <Link href="https://twitter.com">
+            <Link href="https://www.instagram.com/ecua.cleaner/">
               <Image
                 src="/assets/icons/instagram.png"
                 alt="Instagram"
@@ -96,7 +96,7 @@ export default function Footer() {
                 className="fill-current"
               />
             </Link>
-            <Link href="https://youtube.com">
+            <Link href="https://www.facebook.com/profile.php?id=61562007173212&locale=es_LA">
               <Image
                 src="/assets/icons/facebook.png"
                 alt="Facebook"
@@ -105,7 +105,7 @@ export default function Footer() {
                 className="fill-current"
               />
             </Link>
-            <Link href="https://facebook.com">
+            <Link href="https://digitalcard.ecuacleanerinc.com">
               <Image
                 src="/assets/images/logo.png"
                 alt="Digital Card"
