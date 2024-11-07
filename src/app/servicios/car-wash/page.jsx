@@ -9,7 +9,7 @@ import VideoPlayer from "@/components/videoPlayer/VideoPlayer";
 import CallToAction from "@/components/cta/cta";
 import VideoPlayer2 from "@/components/videoPlayer2/VideoPlayer2";
 
-const imageSrc = "/assets/images/servicios/car-wash/carwash_lady.webp";
+const imageSrc = "/assets/images/servicios/car-wash/hero.jpg";
 const mainText = "Limpieza de Autos";
 const secondaryText = [
   "En EcuaCleaner, nos especializamos en proporcionar servicios de limpieza de vehículos de alta calidad",
@@ -20,12 +20,15 @@ const secondaryText = [
 ];
 
 const images = [
-  // { src: "/assets/images/servicios/car-wash/car_washing1.jpg", alt: "Imagen 1", title: "Imagen 1" },
-  { src: "/assets/images/servicios/car-wash/car_washing2.jpg", alt: "Imagen 2", title: "Imagen 2" },
-  { src: "/assets/images/servicios/car-wash/car_washing3.jpg", alt: "Imagen 3", title: "Imagen 3" },
-  { src: "/assets/images/servicios/car-wash/car_washing4.jpg", alt: "Imagen 4", title: "Imagen 4" },
-  { src: "/assets/images/servicios/car-wash/car_washing5.jpg", alt: "Imagen 5", title: "Imagen 5" },
-  // { src: "/assets/images/servicios/car-wash/car_washing6.jpg", alt: "Imagen 6", title: "Imagen 6" },
+  { src: "/assets/images/servicios/car-wash/car_washing1.jpg", alt: "Imagen 1", title: "Car Wash 1" },
+  { src: "/assets/images/servicios/car-wash/car_washing2.jpg", alt: "Imagen 2", title: "Car Wash 2" },
+  { src: "/assets/images/servicios/car-wash/car_washing3.jpg", alt: "Imagen 3", title: "Car Wash 3" },
+  { src: "/assets/images/servicios/car-wash/car_washing4.jpg", alt: "Imagen 4", title: "Car Wash 4" },
+  { src: "/assets/images/servicios/car-wash/car_washing5.jpg", alt: "Imagen 5", title: "Car Wash 5" },
+  { src: "/assets/images/servicios/car-wash/car_washing6.jpg", alt: "Imagen 6", title: "Car Wash 6" },
+  { src: "/assets/images/servicios/car-wash/car_washing7.jpg", alt: "Imagen 7", title: "Car Wash 7" },
+  { src: "/assets/images/servicios/car-wash/car_washing8.jpg", alt: "Imagen 8", title: "Car Wash 8" },
+  { src: "/assets/images/servicios/car-wash/car_washing9.jpg", alt: "Imagen 9", title: "Car Wash 9" },
 ];
 
 const videoUrl = '/assets/videos/car_washing1.mp4';
@@ -34,7 +37,7 @@ export default function CarWash() {
   return (
     <section className="relative  bg-dark text-center overflow-hidden  ">
       <HeroImgBackg
-        backgroundImage="/assets/images/servicios/car-wash/car_washing4.jpg"
+        backgroundImage="/assets/images/servicios/car-wash/hero_back.jpg"
         mainText="Limpieza de Autos"
         secondaryText="Ofrecemos los mejores servicios de limpieza para tu vehículo."
         buttonText="Contáctanos"

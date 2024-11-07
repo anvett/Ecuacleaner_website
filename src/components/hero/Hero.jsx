@@ -19,7 +19,10 @@ const Hero = () => {
               ¡Bienvenidos a EcuaCleaner Inc.!
             </h1>
             <h2 className="mb-4 font-extrabold text-light text-size-4 sm:text-size-5 lg:text-size-6 font-primary pt-spacing-2 sm:pt-spacing-1">
-              Especialistas en Limpieza de lotes de Vehículos (CarWash y Detailing)  de Alta Calidad
+              Especialistas en Limpieza de lotes de Vehículos
+            </h2>
+            <h2 className="mb-4 font-extrabold text-light text-size-4 sm:text-size-5 lg:text-size-6 font-primary pt-spacing-2 sm:pt-spacing-1">
+              CarWash y Detailing  de Alta Calidad
             </h2>
             <h3 className="mb-4 font-extrabold text-light text-size-3 sm:text-size-4 lg:text-size-5 font-primary pt-spacing-2 pb-spacing-3 sm:pt-spacing-4">
               Comprometidos con la Excelencia

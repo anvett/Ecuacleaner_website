@@ -63,7 +63,7 @@ const Navbar = () => {
                   </li>
                   <li>
                     <Link className="text-dark text-size-0" href="/servicios/tint-removal">
-                      Remoción de tinta
+                      Tint Windows Removal
                     </Link>
                   </li>
                   <li>
@@ -158,7 +158,7 @@ const Navbar = () => {
                 </li>
                 <li>
                   <Link className="text-light text-size-1" href="/servicios/tint-removal">
-                    Remoción de tinta
+                    Tint Windows Removal
                   </Link>
                 </li>
                 <li>

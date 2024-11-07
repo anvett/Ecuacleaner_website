@@ -36,7 +36,7 @@ export default function Footer() {
             Corrección de Pintura
           </Link>
           <Link href="/servicios/tint-removal" className="text-light font-semibold link link-hover">
-            Remoción de Tinta
+            Tint Windows Removal
           </Link>
           <Link href="/servicios/limpieza-botes" className="text-light font-semibold link link-hover">
             Limpieza de botes
