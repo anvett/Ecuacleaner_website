@@ -81,7 +81,7 @@ export default function Footer() {
             EcuaCleaner Inc.
           </p>
           <p className="text-primary text-size-3 font-primary pt-spacing-2">
-            Proveyendo servicios de limpieza de alta calidad desde 2015.
+            Proveyendo servicios de limpieza de alta calidad desde 2012.
           </p>
         </aside>
         <nav>
