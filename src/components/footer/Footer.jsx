@@ -41,6 +41,9 @@ export default function Footer() {
           <Link href="/servicios/limpieza-botes" className="text-light font-semibold link link-hover">
             Limpieza de botes
           </Link>
+          <Link href="/servicios/ceramic-coat" className="text-light font-semibold link link-hover">
+            Ceramic Coat
+          </Link>
         </div>
         <div className="flex flex-col md:w-1/3">
           <h6 className="footer-title text-size-3 font-primary font-bold text-primary">EcuaCleaner Inc.</h6>

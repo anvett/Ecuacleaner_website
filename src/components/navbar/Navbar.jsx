@@ -91,6 +91,11 @@ const Navbar = () => {
                       Limpieza de Edificios
                     </Link>
                   </li>
+                  <li>
+                    <Link className="text-dark text-size-0" href="/servicios/ceramic-coat">
+                      Ceramic Coat
+                    </Link>
+                  </li>
                 </ul>
               </details>
             </li>
@@ -184,6 +189,11 @@ const Navbar = () => {
                 <li>
                   <Link className="text-light text-size-1" href="/servicios/limpieza-edificios">
                     Limpieza de Edificios
+                  </Link>
+                </li>
+                <li>
+                  <Link className="text-light text-size-1" href="/servicios/ceramic-coat">
+                    Ceramic Coat
                   </Link>
                 </li>
               </ul>

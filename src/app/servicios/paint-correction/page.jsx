@@ -9,7 +9,7 @@ import ImageGallery from "@/components/imageGallery/ImageGallery";
 import CallToAction from "@/components/cta/cta";
 import VideoPlayer2 from "@/components/videoPlayer2/VideoPlayer2";
 
-const imageSrc = "/assets/images/servicios/correccion-pintura/hero.png";
+const imageSrc = "/assets/images/servicios/correccion-pintura/hero.jpg";
 const mainText = "Corrección de Pintura";
 const secondaryTextOption1 = [
   "En EcuaCleaner, ofrecemos servicios de corrección de pintura que restauran y embellecen la apariencia de tu vehículo.",
@@ -29,27 +29,27 @@ const secondaryTextOption2 = [
 
 const images = [
   {
-    src: "/assets/images/servicios/correccion-pintura/correccion_pintura1.png",
+    src: "/assets/images/servicios/correccion-pintura/correccion_pintura1.jpg",
     alt: "Corrección de Pintura",
     title: "Corrección de Pintura 1",
   },
   {
-    src: "/assets/images/servicios/correccion-pintura/correccion_pintura2.png",
+    src: "/assets/images/servicios/correccion-pintura/correccion_pintura2.jpg",
     alt: "Corrección de Pintura",
     title: "Corrección de Pintura 2",
   },
   {
-    src: "/assets/images/servicios/correccion-pintura/correccion_pintura3.png",
+    src: "/assets/images/servicios/correccion-pintura/correccion_pintura3.jpg",
     alt: "Corrección de Pintura",
     title: "Corrección de Pintura 3",
   },
   {
-    src: "/assets/images/servicios/correccion-pintura/correccion_pintura4.png",
+    src: "/assets/images/servicios/correccion-pintura/correccion_pintura4.jpg",
     alt: "Corrección de Pintura",
     title: "Corrección de Pintura 4",
   },
   {
-    src: "/assets/images/servicios/correccion-pintura/correccion_pintura5.png",
+    src: "/assets/images/servicios/correccion-pintura/correccion_pintura5.jpg",
     alt: "Corrección de Pintura",
     title: "Corrección de Pintura 5",
   },
@@ -57,6 +57,36 @@ const images = [
     src: "/assets/images/servicios/correccion-pintura/correccion_pintura6.jpg",
     alt: "Corrección de Pintura",
     title: "Corrección de Pintura 6",
+  },
+  {
+    src: "/assets/images/servicios/correccion-pintura/correccion_pintura7.jpg",
+    alt: "Corrección de Pintura",
+    title: "Corrección de Pintura 7",
+  },
+  {
+    src: "/assets/images/servicios/correccion-pintura/correccion_pintura8.jpg",
+    alt: "Corrección de Pintura",
+    title: "Corrección de Pintura 8",
+  },
+  {
+    src: "/assets/images/servicios/correccion-pintura/correccion_pintura9.jpg",
+    alt: "Corrección de Pintura",
+    title: "Corrección de Pintura 9",
+  },
+  {
+    src: "/assets/images/servicios/correccion-pintura/correccion_pintura10.jpg",
+    alt: "Corrección de Pintura",
+    title: "Corrección de Pintura 10",
+  },
+  {
+    src: "/assets/images/servicios/correccion-pintura/correccion_pintura11.jpg",
+    alt: "Corrección de Pintura",
+    title: "Corrección de Pintura 11",
+  },
+  {
+    src: "/assets/images/servicios/correccion-pintura/correccion_pintura12.jpg",
+    alt: "Corrección de Pintura",
+    title: "Corrección de Pintura 12",
   },
 ];
 
@@ -72,7 +102,7 @@ export default function CorreccionPintura() {
   return (
     <section className="relative bg-dark text-center overflow-hidden">
       <HeroImgBackg
-        backgroundImage="/assets/images/servicios/correccion-pintura/hero_back.png"
+        backgroundImage="/assets/images/servicios/correccion-pintura/hero_back.jpg"
         mainText="Corrección de Pintura"
         secondaryText={heroSecondaryText1}  // Puedes cambiar a heroSecondaryText2 según lo necesites
         buttonText="Contáctanos"

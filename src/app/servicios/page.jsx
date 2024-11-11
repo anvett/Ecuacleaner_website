@@ -41,7 +41,7 @@ export default function ServicesPage() {
       linkText: "Ver más",
     },
     {
-      imageSrc: "/assets/images/servicios/correccion-pintura/correccion_pintura1.png",
+      imageSrc: "/assets/images/servicios/correccion-pintura/correccion_pintura2.jpg",
       title: "Corrección de Pintura",
       description:
         "Servicios de corrección de pintura para eliminar imperfecciones y restaurar el brillo.",
@@ -49,8 +49,8 @@ export default function ServicesPage() {
       linkText: "Ver más",
     },
     {
-      imageSrc: "/assets/images/servicios/remocion-tinta/tint_removal.png",
-      title: "Remosión de Tinta",
+      imageSrc: "/assets/images/servicios/remocion-tinta/hero_back.jpg",
+      title: "Remoción de Tinta",
       description: "Eliminamos tintes del vehículo de manera profesional.",
       link: "/servicios/tint-removal",
       linkText: "Ver más",
@@ -64,13 +64,13 @@ export default function ServicesPage() {
     },
     {
       imageSrc: "/assets/images/servicios/remocion-olores/odor_removal.png",
-      title: "Remosión de Olores",
+      title: "Remoción de Olores",
       description: "Eliminamos olores desagradables del interior del vehículo.",
       link: "/servicios/odor-removal",
       linkText: "Ver más",
     },
     {
-      imageSrc: "/assets/images/servicios/leather-paint-sealing/leather_paint_sealing.jpeg",
+      imageSrc: "/assets/images/servicios/leather-paint-sealing/leather_paint1.png",
       title: "Leather & Paint Sealing",
       description: "Sellado de cuero y pintura para proteger y prolongar su durabilidad.",
       link: "/servicios/leather-paint-sealing",

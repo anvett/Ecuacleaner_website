@@ -46,6 +46,12 @@ export default function Home() {
       description: "Limpieza de edificios y oficinas, garantizando un ambiente limpio y seguro.",
       link: "/servicios/limpieza-edificios",
     },
+    {
+      icon: "assets/images/servicios/car-wash/car_washing3.jpg",
+      title: "Car Wash",
+      description: "Lavado profesional de vehículos, garantizando un acabado impecable.",
+      link: "/servicios/car-wash",
+    },
   ];
 
   //----------------------------------------------
