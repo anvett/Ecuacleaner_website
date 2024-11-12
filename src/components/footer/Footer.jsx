@@ -21,10 +21,10 @@ export default function Footer() {
             Leather & Paint Sealing
           </Link>
           <Link href="/servicios/limpieza-edificios" className="text-light font-semibold link link-hover">
-            Limpieza de Edificios
+            Limpieza de Edificios y Gasolineras
           </Link>
           <Link href="/servicios/limpieza-pisos" className="text-light font-semibold link link-hover">
-            Limpieza de Pisos
+            Limpieza de Pisos, Casas y Techos
           </Link>
           <Link href="/servicios/lotes-autos" className="text-light font-semibold link link-hover">
             Lotes de Autos

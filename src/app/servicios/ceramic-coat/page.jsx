@@ -29,6 +29,7 @@ const images = [
   { src: "/assets/images/servicios/ceramic-coat/ceramic_coating7.jpg", alt: "Imagen 7", title: "Revestimiento Cerámico 7" },
   { src: "/assets/images/servicios/ceramic-coat/ceramic_coating8.jpg", alt: "Imagen 8", title: "Revestimiento Cerámico 8" },
   { src: "/assets/images/servicios/ceramic-coat/ceramic_coating9.jpg", alt: "Imagen 9", title: "Revestimiento Cerámico 9" },
+  { src: "/assets/images/servicios/ceramic-coat/ceramic_coating10.jpg", alt: "Imagen 10", title: "Revestimiento Cerámico 10" },
 ];
 
 const videoUrl = '/assets/videos/ceramic_coating1.mp4';

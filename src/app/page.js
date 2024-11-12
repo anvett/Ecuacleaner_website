@@ -36,14 +36,14 @@ export default function Home() {
 
     {
       icon: "assets/images/servicios/limpieza-pisos/washing_patio.jpg",
-      title: "Limpieza de Pisos",
-      description: "Limpieza de pisos de concreto, cerámica, madera y otros materiales.",
+      title: "Limpieza de Pisos, Casas y Techos",
+      description: "Limpieza de pisos, casas y techos, garantizando un ambiente limpio y seguro.",
       link: "/servicios/limpieza-pisos",
     },
     {
       icon: "assets/images/servicios/limpieza-edificios/limpieza_edificios1.png",
-      title: "Limpieza de Edificios",
-      description: "Limpieza de edificios y oficinas, garantizando un ambiente limpio y seguro.",
+      title: "Limpieza de Edificios y Gasolineras",
+      description: "Limpieza profesional de edificios y gasolineras, manteniendo un ambiente limpio y seguro.",
       link: "/servicios/limpieza-edificios",
     },
     {

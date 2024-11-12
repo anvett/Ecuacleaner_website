@@ -50,7 +50,7 @@ export default function ServicesPage() {
     },
     {
       imageSrc: "/assets/images/servicios/remocion-tinta/hero_back.jpg",
-      title: "Remoción de Tinta",
+      title: "Windows Tint Removal and Installation",
       description: "Eliminamos tintes del vehículo de manera profesional.",
       link: "/servicios/tint-removal",
       linkText: "Ver más",
@@ -78,16 +78,24 @@ export default function ServicesPage() {
     },
     {
       imageSrc: "/assets/images/servicios/limpieza-pisos/washing_patio.jpg",
-      title: "Limpieza de Pisos",
-      description: "Limpieza a presión en pisos (driveway) para mantenerlos en perfecto estado.",
+      title: "Limpieza de Pisos, Casas y Techos",
+      description: "Limpieza de pisos, casas y techos para mantenerlos en perfecto estado.",
       link: "/servicios/limpieza-pisos",
       linkText: "Ver más",
     },
     {
       imageSrc: "/assets/images/servicios/limpieza-edificios/limpieza_edificios1.png",
-      title: "Limpieza de Edificios",
-      description: "Limpieza a presión en edificios y almacenes para una apariencia impecable.",
+      title: "Limpieza de Edificios y Gasolineras",
+      description: "Limpieza de edificios y gasolineras para mantenerlos en perfecto estado.",
       link: "/servicios/limpieza-edificios",
+      linkText: "Ver más",
+      
+    },
+    {
+      imageSrc: "/assets/images/servicios/ceramic-coat/ceramic_coating5.jpg",
+      title: "Ceramic Coating",
+      description: "Aplicación de cerámica para proteger la pintura del vehículo y mantener su brillo.",
+      link: "/servicios/ceramic-coat",
       linkText: "Ver más",
       
     },

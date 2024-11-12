@@ -48,7 +48,7 @@ const Navbar = () => {
                   </li>
                   <li>
                     <Link className="text-dark text-size-0" href="/servicios/car-wash">
-                      Limpieza de autos
+                      Car Wash
                     </Link>
                   </li>
                   <li>
@@ -63,7 +63,7 @@ const Navbar = () => {
                   </li>
                   <li>
                     <Link className="text-dark text-size-0" href="/servicios/tint-removal">
-                      Tint Windows Removal
+                      Tint Windows Removal and Installation
                     </Link>
                   </li>
                   <li>
@@ -83,7 +83,7 @@ const Navbar = () => {
                   </li>
                   <li>
                     <Link className="text-dark text-size-0" href="/servicios/limpieza-pisos">
-                      Limpieza de Pisos
+                      Limpieza de Pisos, Casas y Techos
                     </Link>
                   </li>
                   <li>
@@ -148,7 +148,7 @@ const Navbar = () => {
                 </li>
                 <li>
                   <Link className="text-light text-size-1" href="/servicios/car-wash">
-                    Limpieza de autos
+                    Car Wash
                   </Link>
                 </li>
                 <li>
@@ -163,7 +163,7 @@ const Navbar = () => {
                 </li>
                 <li>
                   <Link className="text-light text-size-1" href="/servicios/tint-removal">
-                    Tint Windows Removal
+                    Tint Windows Removal and Installation
                   </Link>
                 </li>
                 <li>
@@ -183,12 +183,12 @@ const Navbar = () => {
                 </li>
                 <li>
                   <Link className="text-light text-size-1" href="/servicios/limpieza-pisos">
-                    Limpieza de Pisos
+                    Limpieza de Pisos, Casas y Techos
                   </Link>
                 </li>
                 <li>
                   <Link className="text-light text-size-1" href="/servicios/limpieza-edificios">
-                    Limpieza de Edificios
+                    Limpieza de Edificios y Gasolineras
                   </Link>
                 </li>
                 <li>

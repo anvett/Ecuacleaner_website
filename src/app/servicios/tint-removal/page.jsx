@@ -11,17 +11,17 @@ import VideoPlayer2 from "@/components/videoPlayer2/VideoPlayer2";
 
 const imageSrc = "/assets/images/servicios/remocion-tinta/hero.jpg";
 
-const mainText = "Tint Windows Removal";
+const mainText = "Tint Windows Removal and Installation";
 const secondaryTextOption1 = [
-  "En EcuaCleaner, ofrecemos servicios de remoción de tinte de ventanas para devolverle a tu vehículo su apariencia original.",
-  "Utilizamos productos y técnicas avanzadas para remover el tinte sin dañar la superficie de tu auto.",
-  "Nuestro equipo está altamente capacitado para realizar tratamientos eficaces, adaptados a las necesidades específicas de cada vehículo.",
-  "Contamos con equipos avanzados y productos de alta calidad para asegurar la eliminación completa del tinte de las ventanas.",
-  "Adaptamos nuestros servicios de remoción de tinte a tus horarios, ofreciendo flexibilidad y conveniencia para nuestros clientes.",
+  "En EcuaCleaner, nos especializamos en servicios avanzados de windows tint removal and installation, devolviendo a tu vehículo su estética original o mejorando su apariencia con un tintado de alta calidad.",
+  "Utilizamos productos de última generación y técnicas especializadas para instalar o remover el tintado de las ventanas sin comprometer la integridad de las superficies.",
+  "Nuestro equipo de profesionales está altamente capacitado para brindar tratamientos de windows tint removal and installation adaptados a las características únicas de cada vehículo, asegurando resultados precisos y duraderos.",
+  "Disponemos de tecnología avanzada y productos de calidad superior para una instalación o eliminación completa del tintado de las ventanas, manteniendo la seguridad y el acabado del vidrio.",
+  "Adaptamos nuestros servicios de windows tint removal and installation a tu disponibilidad, brindando opciones flexibles para una experiencia conveniente y sin contratiempos.",
 ];
 
 const secondaryTextOption2 = [
-  "En EcuaCleaner, nos enorgullece brindar servicios de remoción de tinte que restauran la apariencia de tu vehículo.",
+  "En EcuaCleaner, nos enorgullece brindar servicios de windows tint removal que restauran la apariencia de tu vehículo.",
   "Empleamos técnicas avanzadas y productos de alta calidad para eliminar el tinte sin dañar la superficie del auto.",
   "Nuestros profesionales están equipados con las herramientas y conocimientos necesarios para remover cualquier tipo de tinte en tu auto.",
   "Garantizamos una remoción de tinte profunda y detallada, utilizando solo los mejores productos del mercado.",
@@ -31,33 +31,59 @@ const secondaryTextOption2 = [
 const images = [
   {
     src: "/assets/images/servicios/remocion-tinta/remocion_tinta1.jpg",
-    alt: "Remoción de Tinte",
-    title: "Remoción de Tinte 1",
+    alt: "Windows Tint Removal",
+    title: "Tint Service 1",
   },
   {
     src: "/assets/images/servicios/remocion-tinta/remocion_tinta2.jpg",
-    alt: "Remoción de Tinte",
-    title: "Remoción de Tinte 2",
+    alt: "Windows Tint Removal",
+    title: "Tint Service 2",
   },
   {
     src: "/assets/images/servicios/remocion-tinta/remocion_tinta3.jpg",
-    alt: "Remoción de Tinte",
-    title: "Remoción de Tinte 3",
+    alt: "Windows Tint Removal",
+    title: "Tint Service 3",
   },
   {
     src: "/assets/images/servicios/remocion-tinta/remocion_tinta4.jpg",
-    alt: "Remoción de Tinte",
-    title: "Remoción de Tinte 4",
+    alt: "Windows Tint Removal",
+    title: "Tint Service 4",
+  },
+  {
+    src: "/assets/images/servicios/remocion-tinta/remocion_tinta5.jpg",
+    alt: "Windows Tint Removal",
+    title: "Tint Service 5",
+  },
+  {
+    src: "/assets/images/servicios/remocion-tinta/remocion_tinta6.jpg",
+    alt: "Windows Tint Removal",
+    title: "Tint Service 6",
+  },
+  {
+    src: "/assets/images/servicios/remocion-tinta/remocion_tinta7.jpg",
+    alt: "Windows Tint Removal",
+    title: "Tint Service 7",
+  },
+  {
+    src: "/assets/images/servicios/remocion-tinta/remocion_tinta8.jpg",
+    alt: "Windows Tint Removal",
+    title: "Tint Service 8",
+  },
+  {
+    src: "/assets/images/servicios/remocion-tinta/remocion_tinta9.jpg",
+    alt: "Windows Tint Removal",
+    title: "Tint Service 9",
   },
 ];
 
+
 const videoUrl = "/assets/videos/remocion_tinta.mp4";
 
-const cta1 = "¡Elimina el tinte de las ventanas de tu vehículo! Contáctanos hoy y descubre cómo nuestros servicios de remoción de tinte pueden restaurar la apariencia de tu auto.";
-const cta2 = "¡Haz que tu auto luzca impecable! Llámanos ahora para agendar un servicio de remoción de tinte profesional y confiable.";
+const cta1 = "¡Devuelve a tu vehículo su estética original o mejora su estilo con nuestro servicio de windows tint removal and installation! Contáctanos hoy mismo y descubre cómo nuestro equipo puede transformar la apariencia de tu auto con profesionalismo y precisión.";
+const cta2 = "¡Haz que tu auto luzca impecable! Llámanos ahora para agendar un servicio profesional de instalación o remoción de tinte, confiable y detallado.";
 
-const heroSecondaryText1 = "En EcuaCleaner, transformamos tu vehículo con nuestra remoción de tinte detallada y profesional. Utilizamos productos de alta calidad y técnicas avanzadas para remover el tinte de las ventanas y restaurar la apariencia original.";
-const heroSecondaryText2 = "Confía en EcuaCleaner para una remoción de tinte impecable. Nuestro equipo de profesionales utiliza las mejores técnicas y productos para dejar tu auto libre de tinte y reluciente.";
+const heroSecondaryText1 = "En EcuaCleaner, transformamos tu vehículo con nuestro servicio profesional de windows tint removal and installation. Con técnicas avanzadas y productos de calidad, instalamos o removemos el tintado de las ventanas, restaurando o mejorando la apariencia de tu auto con precisión y cuidado.";
+//RemovaleroSecondaryText2 = "Confía en EcuaCleaner para un servicio impecable de instalación o remoción de tinte. Nuestro equipo de profesionales utiliza las mejores técnicas y productos para dejar tu auto con el estilo y acabado que deseas.";
 
 
 export default function RemocionTinta() {
@@ -65,7 +91,7 @@ export default function RemocionTinta() {
     <section className="relative bg-dark text-center overflow-hidden">
       <HeroImgBackg
         backgroundImage="/assets/images/servicios/remocion-tinta/hero_back.jpg"
-        mainText="Tint Windows Removal" 
+        mainText="Tint Windows Removal and Installation" 
         secondaryText={heroSecondaryText1}  // Puedes cambiar a heroSecondaryText2 según lo necesites
         buttonText="Contáctanos"
       />

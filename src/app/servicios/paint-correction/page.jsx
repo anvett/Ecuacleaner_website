@@ -88,6 +88,21 @@ const images = [
     alt: "Corrección de Pintura",
     title: "Corrección de Pintura 12",
   },
+  {
+    src: "/assets/images/servicios/correccion-pintura/correccion_pintura13.jpg",
+    alt: "Corrección de Pintura",
+    title: "Corrección de Pintura 13",
+  },
+  {
+    src: "/assets/images/servicios/correccion-pintura/correccion_pintura14.jpg",
+    alt: "Corrección de Pintura",
+    title: "Corrección de Pintura 14",
+  },
+  {
+    src: "/assets/images/servicios/correccion-pintura/correccion_pintura15.jpg",
+    alt: "Corrección de Pintura",
+    title: "Corrección de Pintura 15",
+  },
 ];
 
 const videoUrl = "/assets/videos/correccion_pintura.mp4";
